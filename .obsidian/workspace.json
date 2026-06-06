@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "6b6e64aa9996e341",
+    "type": "split",
+    "children": [
+      {
+        "id": "d88e7b678fc2890b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80785e2fd4e91804",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spanish/Week 1/Reading/You Say Latinx.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "You Say Latinx"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "554cc64d43767503",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f3d0d2e4ded3b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "170f3ccb6742ded4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d1825b1017bba1c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e4532f102cc7c23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e837f8aeceda169e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b397ede1ed2382dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c99fc777f370e7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spanish/Keywords_for_Latino_Studies.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Keywords_for_Latino_Studies"
+            }
+          },
+          {
+            "id": "a8167489c4cc678a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spanish/Keywords_for_Latino_Studies.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Keywords_for_Latino_Studies"
+            }
+          },
+          {
+            "id": "08bea5c825954073",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "83fcad1a0c487235",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "33214139e2786aef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network/Chapter_3_Addressing/Notes/Chapter 3 Addressing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 3 Addressing"
+            }
+          },
+          {
+            "id": "b7429d4d7c0b8a9f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "xournalpp:Create new Xournal++ note": false
+    }
+  },
+  "active": "80785e2fd4e91804",
+  "lastOpenFiles": [
+    "Spanish/Week 1/Reading/Mataran.pdf",
+    "Spanish/Week 1/Reading/Microaggressions_Examples_Arial_2014_11_12.pdf",
+    "Spanish/Week 1/Notes/You Say Latinx.md",
+    "Spanish/Week 1/Notes/You Say Latino.md",
+    "Spanish/Week 3/History of the Zoot Suit (and Why it Matters)_ 2026MSU-METHS-102-7148.pdf",
+    "Spanish/Week 2/Notes/Latino U.S.A. History Part 1.md",
+    "Spanish/Week 3/Zoot Suit Play.pdf",
+    "Spanish/Week 3/The Sleepy Lagoon Case (1942) & Zoot Suit Riots of 1943_ 2026MSU-METHS-102-7148.pdf",
+    "Spanish/Week 3/Setting the Stage_ The Turn of the Century and the 2nd Industrial Revolution_ 2026MSU-METHS-102-7148.pdf",
+    "Spanish/Keywords_for_Latino_Studies.pdf",
+    "Spanish/Annotation_REV 0821.pdf",
+    "Spanish/Vocabulary.md",
+    "Spanish/Week 2/Assignments",
+    "Spanish/Week 2/Reading",
+    "Spanish/Week 2/Notes",
+    "Spanish/Week 1/Assignments/Week 1 Discussion.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/Text Notes.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/Exam Tips.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/Section Tips.md",
+    "Network Essentials/Chapter_1_Introduction/Figures/Figure 1-2 Client-Server Network.png",
+    "Network Essentials/Chapter_1_Introduction/Figures/Figure 1-1 Peer-to-Peer network.png",
+    "Network Essentials/Vocabulary.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/Peer-to-Peer model.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/Applying Concepts.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/1-1 Network Models.md",
+    "Untitled.md",
+    "Networks/Vocabulary.md",
+    "Network.md",
+    "Network/Vocabulary/Network.md",
+    "netwo[[Network/Vocabulary.md",
+    "networks.md",
+    "d.md",
+    "().md",
+    "Network Essentials/Chapter_3_Addressing/Notes/Chapter 3 Addressing.md",
+    "README.md",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 2_Literature Notes.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Posts Zettelkasten/Post - Luhmann vs Digital Zettelkasten.md",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Obsidian Starter Kit/Project Log - Obsidian Starter Kit.md",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/banner_books.jpg",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_mental-gym_2025-06-08.png",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png"
+  ]
+}
