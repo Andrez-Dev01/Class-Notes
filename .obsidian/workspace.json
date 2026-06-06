@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e837f8aeceda169e",
@@ -185,8 +184,19 @@
               "icon": "lucide-list",
               "title": "Outline of Chapter 3 Addressing"
             }
+          },
+          {
+            "id": "b7429d4d7c0b8a9f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,11 +214,17 @@
       "bases:Create new base": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23cc1942f625b25a",
+  "active": "170f3ccb6742ded4",
   "lastOpenFiles": [
+    "Network/Chapter_1_Introduction/Practice Labs",
+    "Network/Chapter_1_Introduction/Images",
+    "Network/Chapter_1_Introduction/Notes",
+    "Network/Chapter_2_Infrastructure_and_Documentation",
+    "Network/Chapter_1_Introduction",
     "Network/Vocabulary.md",
     "Network/Chapter_3_Addressing/Notes/Chapter 3 Addressing.md",
     "README.md",
@@ -250,16 +266,11 @@
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/3_Prompt Template.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/3_Note Template.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/2_Tool Template.md",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/2_Term Template.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/The_Extended_Mind_2024-08-11.pdf",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/The_Explainer__A_Tour_of_the_Zettelkasten.mp4",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Posts Zettelkasten",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Obsidian Starter Kit",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals"
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/The_Explainer__A_Tour_of_the_Zettelkasten.mp4"
   ]
 }
