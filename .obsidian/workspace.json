@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Chapter_3_Addressing/Notes/Chapter 3 Addressing.md",
+                "file": "Network/Chapter_1_Introduction/Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 Addressing"
+              "title": "Untitled"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Chapter_3_Addressing/Notes/Chapter 3 Addressing.md",
+                "file": "Network/Chapter_1_Introduction/Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 3 Addressing"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -218,15 +218,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "170f3ccb6742ded4",
+  "active": "23cc1942f625b25a",
   "lastOpenFiles": [
+    "Network/Chapter_3_Addressing/Notes/Chapter 3 Addressing.md",
+    "Network/Chapter_1_Introduction/Notes/Untitled.md",
     "Network/Chapter_1_Introduction/Practice Labs",
     "Network/Chapter_1_Introduction/Images",
     "Network/Chapter_1_Introduction/Notes",
     "Network/Chapter_2_Infrastructure_and_Documentation",
     "Network/Chapter_1_Introduction",
     "Network/Vocabulary.md",
-    "Network/Chapter_3_Addressing/Notes/Chapter 3 Addressing.md",
     "README.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas",
@@ -270,7 +271,6 @@
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/The_Extended_Mind_2024-08-11.pdf",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/The_Explainer__A_Tour_of_the_Zettelkasten.mp4"
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/The_Extended_Mind_2024-08-11.pdf"
   ]
 }
