@@ -11,10 +11,14 @@
             "id": "4fce915b71f2f808",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Spanish/Keywords_for_Latino_Studies.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Keywords_for_Latino_Studies"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Essentials/Chapter_1_Introduction/Notes/Text Notes.md",
+                "file": "Spanish/Keywords_for_Latino_Studies.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Text Notes"
+              "title": "Backlinks for Keywords_for_Latino_Studies"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Essentials/Chapter_1_Introduction/Notes/Text Notes.md",
+                "file": "Spanish/Keywords_for_Latino_Studies.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Text Notes"
+              "title": "Outgoing links from Keywords_for_Latino_Studies"
             }
           },
           {
@@ -194,11 +198,26 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "170f3ccb6742ded4",
+  "active": "4fce915b71f2f808",
   "lastOpenFiles": [
+    "Spanish/Week 2/Notes/Latino U.S.A. History Part 1.md",
+    "Spanish/Keywords_for_Latino_Studies.pdf",
+    "Spanish/Annotation_REV 0821.pdf",
+    "Spanish/Vocabulary.md",
+    "Spanish/Week 2/Assignments",
+    "Spanish/Week 2/Reading",
+    "Spanish/Week 2/Notes",
+    "Spanish/Week 1/Notes/You Say Latinx.md",
+    "Spanish/Week 1/Notes/You Say Latino.md",
+    "Spanish/Week 1/Assignments/Week 1 Discussion.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/Text Notes.md",
+    "Spanish/Week 1/Assignments",
+    "Spanish/Week 1/Notes",
+    "Spanish/Week 1/Reading/You Say Latinx.pdf",
+    "Spanish/Week 1/Reading/The X in Latinx is a Wound, Not a Trend.pdf",
+    "Spanish/Week 1/Reading/Microaggressions_Examples_Arial_2014_11_12.pdf",
     "Network Essentials/Chapter_1_Introduction/Notes/Exam Tips.md",
     "Network Essentials/Chapter_1_Introduction/Notes/Section Tips.md",
-    "Network Essentials/Chapter_1_Introduction/Notes/Text Notes.md",
     "Network Essentials/Chapter_1_Introduction/Figures/Figure 1-2 Client-Server Network.png",
     "Network Essentials/Chapter_1_Introduction/Figures/Figure 1-1 Peer-to-Peer network.png",
     "Network Essentials/Vocabulary.md",
@@ -206,24 +225,14 @@
     "Network Essentials/Chapter_1_Introduction/Notes/Applying Concepts.md",
     "Network Essentials/Chapter_1_Introduction/Notes/1-1 Network Models.md",
     "Untitled.md",
-    "Spanish/Vocabulary.md",
-    "Spanish/Week 2/Latino U.S.A. History.md",
     "Networks/Vocabulary.md",
-    "Networks",
     "Network.md",
     "Network/Vocabulary/Network.md",
-    "Network/Vocabulary",
     "netwo[[Network/Vocabulary.md",
-    "netwo[[Network",
     "networks.md",
     "d.md",
     "().md",
     "Network Essentials/Chapter_3_Addressing/Notes/Chapter 3 Addressing.md",
-    "Network Essentials/Chapter_1_Introduction/Practice Labs",
-    "Network Essentials/Chapter_1_Introduction/Figures",
-    "Network Essentials/Chapter_1_Introduction/Notes",
-    "Network Essentials/Chapter_2_Infrastructure_and_Documentation",
-    "Network Essentials/Chapter_1_Introduction",
     "README.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas",
@@ -234,7 +243,6 @@
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Posts Zettelkasten/Post - Luhmann vs Digital Zettelkasten.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Obsidian Starter Kit/Project Log - Obsidian Starter Kit.md",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Obsidian Starter Kit/History - Obsidian Starter Kit.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/banner_books.jpg",
@@ -242,10 +250,6 @@
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_mental-gym_2025-06-08.png",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/x_Front Matter Snippet.md",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/x_Dataview Table Snippet.md",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf"
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png"
   ]
 }
