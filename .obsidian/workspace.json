@@ -4,30 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "06729473a07abf33",
-        "type": "tabs",
-        "dimension": 34.58188153310104,
-        "children": [
-          {
-            "id": "df26284e0b91c595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Essentials/Chapter_1_Introduction/Notes/Exam Tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exam Tips"
-            }
-          }
-        ]
-      },
-      {
         "id": "477823b762888367",
         "type": "tabs",
-        "dimension": 34.58188153310104,
+        "dimension": 52.862849533954716,
         "children": [
           {
             "id": "77b15ab15e3e97f5",
@@ -48,7 +27,7 @@
       {
         "id": "0c2c79b03b0616b5",
         "type": "tabs",
-        "dimension": 30.836236933797913,
+        "dimension": 47.13715046604528,
         "children": [
           {
             "id": "efedc8ab5f1db728",
@@ -223,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,12 +220,15 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "170f3ccb6742ded4",
+  "active": "77b15ab15e3e97f5",
   "lastOpenFiles": [
-    "Network Essentials/Vocabulary.md",
-    "Network Essentials/Chapter_1_Introduction/Notes/Text Notes.md",
-    "Network Essentials/Chapter_1_Introduction/Notes/Peer-to-Peer model.md",
     "Network Essentials/Chapter_1_Introduction/Notes/Exam Tips.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/Section Tips.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/Text Notes.md",
+    "Network Essentials/Chapter_1_Introduction/Figures/Figure 1-2 Client-Server Network.png",
+    "Network Essentials/Chapter_1_Introduction/Figures/Figure 1-1 Peer-to-Peer network.png",
+    "Network Essentials/Vocabulary.md",
+    "Network Essentials/Chapter_1_Introduction/Notes/Peer-to-Peer model.md",
     "Network Essentials/Chapter_1_Introduction/Notes/Applying Concepts.md",
     "Network Essentials/Chapter_1_Introduction/Notes/1-1 Network Models.md",
     "Untitled.md",
@@ -288,12 +269,8 @@
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_mental-gym_2025-06-08.png",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_Ontology.png",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/x_Front Matter Snippet.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/x_Dataview Table Snippet.md",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/x_Book Front Matter Snippet.md",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Templates/x_Back Matter Snippet.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf"
   ]
