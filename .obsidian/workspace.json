@@ -11,10 +11,14 @@
             "id": "e406c82e07b44896",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -194,6 +198,7 @@
   "active": "b7429d4d7c0b8a9f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "English/Vocabulary.md",
     "Spanish/Keywords_for_Latino_Studies.pdf",
     "English/Week 4/Introduction_Myths-of-Happiness_Annotations.pdf",
     "English/Week 4",
