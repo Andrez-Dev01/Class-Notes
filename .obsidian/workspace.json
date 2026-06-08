@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74d24e8d991fa1e4",
+        "id": "52093ea15c9b741a",
         "type": "tabs",
         "children": [
           {
-            "id": "8e09562de7d531d9",
+            "id": "83406b9e1b227d49",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Spanish/Keywords_for_Latino_Studies.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Keywords_for_Latino_Studies"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -193,11 +191,14 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "170f3ccb6742ded4",
+  "active": "83406b9e1b227d49",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Spanish/Keywords_for_Latino_Studies.pdf",
+    "English/Week 4/Introduction_Myths-of-Happiness_Annotations.pdf",
+    "English/Week 4",
     "English/Introduction_Myths-of-Happiness-z2a47_ocr (2) (1)-1.pdf",
     "Spanish/Annotation_REV 0821.pdf",
-    "Spanish/Keywords_for_Latino_Studies.pdf",
     "Spanish/Week 3/The Sleepy Lagoon Case (1942) & Zoot Suit Riots of 1943_ 2026MSU-METHS-102-7148.pdf",
     "Spanish/Week 3/Zoot Suit Play.pdf",
     "Spanish/Week 3/History of the Zoot Suit (and Why it Matters)_ 2026MSU-METHS-102-7148.pdf",
@@ -205,9 +206,6 @@
     "Spanish/Vocabulary.md",
     "README.md",
     "English/Three Ways to Write an Introduction = English 1000E.pdf",
-    "English/Introductions - Student Example.pdf",
-    "English/Introductions – The Writing Center.pdf",
-    "English/Thesis statements-1 (3)-1-1_20167296.pdf",
     "Spanish/Week 1/Notes/You Say Latinx.md",
     "Spanish/Week 1/Notes/You Say Latino.md",
     "Spanish/Week 2/Notes/Latino U.S.A. History Part 1.md",
@@ -238,7 +236,6 @@
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Posts Zettelkasten/Post - Luhmann vs Digital Zettelkasten.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
-    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/4_Project/Obsidian Starter Kit/Project Log - Obsidian Starter Kit.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/Visuals/banner_books.jpg",
