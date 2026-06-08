@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52093ea15c9b741a",
+        "id": "359a5bbaaf2f1a7d",
         "type": "tabs",
         "children": [
           {
-            "id": "83406b9e1b227d49",
+            "id": "e406c82e07b44896",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,7 +191,7 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "83406b9e1b227d49",
+  "active": "b7429d4d7c0b8a9f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Spanish/Keywords_for_Latino_Studies.pdf",
