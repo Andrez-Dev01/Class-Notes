@@ -11,10 +11,12 @@
             "id": "dcba503a0f917604",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "English/Week 4/Introduction_Myths-of-Happiness_Annotations_Completed.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction_Myths-of-Happiness_Annotations_Completed"
             }
           }
         ]
