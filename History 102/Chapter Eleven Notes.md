@@ -3,7 +3,7 @@
 > 
 
 # Civilizing a Wilderness
-### Young Samuel Clemens 
+## Young Samuel Clemens 
 
 > [!PDF|red] [[A-Patriots-History-of-the-US-Ytsewolf (1).pdf#page=354&selection=33,70,34,51&color=red|Mississippi steamboat pilot in 1861, setting out for the Nevada Territory]]
 > > Use to be a Mississippi steamboat pilot in 1861 that traveled to the Nevada Territory 
@@ -16,4 +16,11 @@
 > [!PDF|red] [[A-Patriots-History-of-the-US-Ytsewolf (1).pdf#page=354&selection=36,23,37,99&color=red|escape the Civil War, a conflict in which he had served briefly and without distinction as a Confederate militiaman. He had no appetite for the kind of violence and devastatio]]
 > > He moved to escape the Civil War since he briefly contributed as a Confederate militiaman but didn't have a desire for violence and devastation.
 
+### Manifest Destiny Period
+- Came after by the [[Definitions#^5321da|Mormon exodus]] and the [[Definitions#^c24aa2|California Gold Rush]]of 1849
+	- Set the stage for half a century of migration by Eastern Americans to cross the [[Definitions#^0d2ef5|Great Plains]]
+> [!PDF|red] [[A-Patriots-History-of-the-US-Ytsewolf (1).pdf#page=355&selection=4,76,7,65&color=red|Clemens was preceded by tens of thousands of anonymous fur trappers, cowboys, prostitutes, loggers, fishermen, farmers, miners, teachers, entertainers, soldiers, government officials, and business entrepreneurs, in addition to Mormons, Jesuits, Methodists, and other missionaries.]]
+> > These people followed him when the Civil War raged "back east" and took the new generation to the west in the 1860s
+### Frederick Jackson Turner 
+- 
 

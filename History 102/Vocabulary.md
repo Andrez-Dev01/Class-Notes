@@ -1,4 +1,2 @@
-
-| Word | Definition |
-| ---- | ---------- |
-|      |            |
+# Chapter Eleven 
+- Mor : was the mass migration of members of the **Church of Jesus Christ of Latter-day Saints** (LDS Church) from the Midwest to the **Salt Lake Valley** in present-day **Utah** between **1846 and 1869**.
