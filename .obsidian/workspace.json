@@ -6,7 +6,7 @@
       {
         "id": "4460f79aab8bc871",
         "type": "tabs",
-        "dimension": 31.804146449051604,
+        "dimension": 43.008356545961,
         "children": [
           {
             "id": "88753a1f352b523e",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "History 102/Resources/Zinn Reading 3.pdf",
                 "page": 1,
-                "left": -24,
-                "top": 796,
-                "zoom": 0.636029411764706
+                "left": -17,
+                "top": 795,
+                "zoom": 0.8823529411764707
               },
               "icon": "lucide-file-text",
               "title": "Zinn Reading 3"
@@ -29,7 +29,7 @@
       {
         "id": "567d2244bf148735",
         "type": "tabs",
-        "dimension": 36.171151301279224,
+        "dimension": 24.958217270194986,
         "children": [
           {
             "id": "7520f04c1473db9c",
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History 102/Chapter Thirteen Notes.md",
+                "file": "History 102/Week 1/Chapter Thirteen Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,7 +50,7 @@
       {
         "id": "28afe2136b5bf36b",
         "type": "tabs",
-        "dimension": 32.02470224966916,
+        "dimension": 32.03342618384401,
         "children": [
           {
             "id": "5eec2d8dba463b63",
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History 102/Quiz 2.md",
+                "file": "History 102/Week 1/Quiz 2.md",
                 "mode": "source",
                 "source": false
               },
@@ -263,18 +263,19 @@
   },
   "active": "88753a1f352b523e",
   "lastOpenFiles": [
+    "History 102/Week 1/Quiz 2.md",
+    "History 102/Resources/Zinn Reading 3.pdf",
+    "History 102/Week 1",
     "History 102/Resources/A-Patriots-History-of-the-US-Ytsewolf (1).pdf",
-    "History 102/Quiz 2.md",
-    "History 102/Chapter Thirteen Notes.md",
+    "History 102/Week 1/Chapter Thirteen Notes.md",
     "History 102/Definitions.md",
     "Definitions^.md",
-    "History 102/Chapter Eleven Notes.md",
+    "History 102/Week 1/Chapter Eleven Notes.md",
     "History 102/Vocabulary.md",
     "Mormon Exodus.md",
     "Untitled.md",
     "- Mormon Exodus.md",
     "History 102/Resources",
-    "Untitled",
     "History 102/Books",
     "conflict-files-obsidian-git.md",
     "History 102/Zinn Reading 6.docx",
@@ -282,7 +283,6 @@
     "History 102/Zinn Reading 5.docx",
     "History 102/Unconfirmed 506889.crdownload",
     "History 102/Zinn Reading 4.docx",
-    "History 102/Unconfirmed 148040.crdownload",
     "English/Vocabulary.md",
     "Spanish/Week 1/Notes/You Say Latino.md",
     "Spanish/Week 1/Notes/You Say Latinx.md",
