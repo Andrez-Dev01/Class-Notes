@@ -2,3 +2,5 @@
 - **Mormon Exodus** : the mass migration of members of the **Church of Jesus Christ of Latter-day Saints** (LDS Church) from the Midwest to the **Salt Lake Valley** in present-day **Utah** between **1846 and 1869**. ^5321da
 - **Californian Gold Rush** : began in **1848** with the discovery of gold at **Sutter's Mill** in **Coloma**, leading to a massive influx of prospectors, known as **"Forty-Niners,"** who arrived in peak numbers during **1849**. ^c24aa2
 - **The Great Plain**s : This region stretches roughly **3,000 miles** from north to south and **300 to 700 miles** from east to west, lying between the **Rocky Mountains** to the west and the **Interior Lowlands** to the east. ^0d2ef5
+# Chapter Thirteen 
+- Protestant : the average American make being a Republican ^25fcfb
