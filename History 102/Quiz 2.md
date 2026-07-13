@@ -1,1 +1,10 @@
 # WIG History
+1.  a.  Give me one example of Whig History from S & A 
+	An example I seen from the text S & A is on page 412, "Of course, people in unusual or exceptional jobs could make a lot more money. Actress Sarah Bernhardt in 1906 earned $1 million for her movies, and heavyweight boxer Jack Johnson took home a purse of $5,000 when he won the Heavyweight Boxing Championship of 1908. Even more “normal” (yet still specialized) jobs brought high earnings. The manager of a farm-implement department could command $2,000 per year in 1905 or an actuary familiar with western insurance could make up to $12,000 annually, according to ads in the New York Times."
+	
+     b.  Explain in as much detail as possible why you believe this is Whig (avoid terms like positive and negative).
+	 This example is trying to show how good people in the upper range of wealth lived so great. Just before this paragraph the author mentions these are the "Average American" life style but this show the percentage of people who have made either born with money or whos careers are not available to a normal individual. But the counter act is trying to say that even a low income person like a farm-implement manager could make up to 12,000 dollars annually but this will be a hard achievement because we aren't seeing the problems that come with the weather over a year. A farmer is going to spend more time and money trying to keep their farm in order and ready for harsh weather even sometimes disasters that will demolish their farm land. But the other is comparing them to an actress that makes 1 million dollars from movies when all she has to worry about is making sure she got people she pays to handle ll of her problems and just show up to an acting scene and leave with money after. The author is not being realistic of the different situations and struggles of just one person struggling to live versus someone who is struggling of what they should eat at a five star high class restaurant. 
+
+2.  a.  Give me one example of Marxist History from Zinn
+
+     b.  Explain in as much detail as possible why you believe this is Marxist (avoid terms like positive and negative).
