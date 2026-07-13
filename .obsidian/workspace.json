@@ -4,56 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4460f79aab8bc871",
+        "id": "ac892cd0ecd224d5",
         "type": "tabs",
-        "dimension": 43.008356545961,
         "children": [
           {
-            "id": "88753a1f352b523e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "History 102/Resources/Zinn Reading 3.pdf",
-                "page": 1,
-                "left": -17,
-                "top": 795,
-                "zoom": 0.8823529411764707
-              },
-              "icon": "lucide-file-text",
-              "title": "Zinn Reading 3"
-            }
-          }
-        ]
-      },
-      {
-        "id": "567d2244bf148735",
-        "type": "tabs",
-        "dimension": 24.958217270194986,
-        "children": [
-          {
-            "id": "7520f04c1473db9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History 102/Week 1/Chapter Thirteen Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter Thirteen Notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "28afe2136b5bf36b",
-        "type": "tabs",
-        "dimension": 32.03342618384401,
-        "children": [
-          {
-            "id": "5eec2d8dba463b63",
+            "id": "ca7e4a3f0cf7f15a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Definitions"
             }
-          },
-          {
-            "id": "07c69ac7f1cbc391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History 102/Week 1/Quiz 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quiz 2"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e837f8aeceda169e",
@@ -261,10 +200,20 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "07c69ac7f1cbc391",
+  "active": "ca7e4a3f0cf7f15a",
   "lastOpenFiles": [
-    "History 102/Resources/Zinn Reading 3.pdf",
+    "History 102/Week 1/Class Lecture/Labor and Populists.md",
+    "History 102/Week 1/Class Lecture/The Gilded Age.md",
+    "History 102/Week 1/Class Lecture/The West.md",
+    "History 102/Week 1/Coxey's Army Video.md",
+    "History 102/Week 1/Class Lecture",
     "History 102/Week 1/Quiz 2.md",
+    "History 102/Week 1/Quiz 2.txt",
+    "History 102/Week 1/lu68982rdgkl.tmp",
+    "History 102/Week 1/Quiz 2.odt",
+    "History 102/Week 1/lu68982rdgkh.tmp",
+    "History 102/Resources/Zinn Reading 3.pdf",
+    "History 102/Week 1/Zinn 3 Notes.md",
     "History 102/Week 1",
     "History 102/Resources/A-Patriots-History-of-the-US-Ytsewolf (1).pdf",
     "History 102/Week 1/Chapter Thirteen Notes.md",
@@ -278,11 +227,6 @@
     "History 102/Resources",
     "History 102/Books",
     "conflict-files-obsidian-git.md",
-    "History 102/Zinn Reading 6.docx",
-    "History 102/Unconfirmed 141183.crdownload",
-    "History 102/Zinn Reading 5.docx",
-    "History 102/Unconfirmed 506889.crdownload",
-    "History 102/Zinn Reading 4.docx",
     "English/Vocabulary.md",
     "Spanish/Week 1/Notes/You Say Latino.md",
     "Spanish/Week 1/Notes/You Say Latinx.md",
@@ -296,10 +240,6 @@
     "Network Essentials/Chapter_1_Introduction/Figures/Figure 1-2 Client-Server Network.png",
     "Network Essentials/Chapter_1_Introduction/Figures/Figure 1-1 Peer-to-Peer network.png",
     "Network Essentials/Vocabulary.md",
-    "Network Essentials/Chapter_1_Introduction/Notes/Peer-to-Peer model.md",
-    "Network Essentials/Chapter_1_Introduction/Notes/Applying Concepts.md",
-    "Network Essentials/Chapter_1_Introduction/Notes/1-1 Network Models.md",
-    "Networks/Vocabulary.md",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas",
     "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 4_Project Notes.canvas",
